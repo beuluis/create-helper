@@ -41,7 +41,7 @@
   },
   "devDependencies": {
     "@beuluis/eslint-config": "1.0.2",
-    "@beuluis/hook-cli": "1.1.3",
+    "@beuluis/hook-cli": "1.1.4",
     "@beuluis/prettier-config": "2.0.1",
     "@types/inquirer": "9.0.1",
     "@types/minimist": "1.2.2",
